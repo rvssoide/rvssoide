@@ -1,16 +1,15 @@
-## Hi there 👋
+## ¡Hola! 👋 Soy Nico
+📊 **Analista de Datos**  
+🚀 Experiencia en **Investigación psicológica, estadística, planificación, recolección de datos, tratamiento y transformación de datos, y visualización**  
 
-<!--
-**rvssoide/rvssoide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📌 Proyectos Destacados  
+🔹 [Tablero de Chemsex en Power BI](https://github.com/rvssoide/Dashboard-Chemsex)  
+🔹 [Tablero de Facturación y Clientes en Power BI](https://github.com/rvssoide/Proyecto-Facturacion)  
+🔹 [Tablero de Compras, Ventas y Recursos Humanos](https://github.com/rvssoide/Proyecto-Digitalers)  
 
-Here are some ideas to get you started:
+## 🌍 Conectá conmigo  
+📧 [Email](mailto:nmdalbianco@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in//nicolas-matias-dal-bianco/)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Actualmente buscando trabajo
+- 🌱 Aprendiendo SQL, herramientas de visualización (Power BI, Tableau, Looker Studio), spreadsheets, Python, R, HTML y CSS
