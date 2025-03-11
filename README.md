@@ -1,6 +1,6 @@
 ## ¡Hola! 👋 Soy Nico
 📊 **Analista de Datos**  
-🚀 Experiencia en **Investigación psicológica, estadística, planificación, recolección de datos, tratamiento y transformación de datos, y visualización**  
+🚀 Experiencia en **investigación psicológica, estadística, planificación, recolección de datos, tratamiento y transformación de datos, y visualización**  
 
 ## 📌 Proyectos Destacados  
 🔹 [Tablero de Chemsex en Power BI](https://github.com/rvssoide/Dashboard-Chemsex)  
